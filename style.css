@@ -1,0 +1,14 @@
+.container2{
+    display: flex;
+    display: inline;
+    justify-content: center;
+    align-self: center;
+}
+#box{
+    display: flex;
+    align-content: center;
+}
+.container{
+    padding: 40px;
+    margin: 40px;
+}
